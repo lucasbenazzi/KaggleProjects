@@ -1,6 +1,6 @@
 # KaggleProjects
 
-A Repo for all of my kaggle projects.
+A Repo for all of my kaggle projects. [My profile page on Kaggle](https://www.kaggle.com/lucasbenazzicestari)
 
 ----
 
